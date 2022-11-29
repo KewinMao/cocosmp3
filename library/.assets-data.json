@@ -1,0 +1,49 @@
+{
+  "1acaf6b9-4e5e-4846-88b0-e1156ec88a4b": {
+    "url": "db://assets/scene.scene",
+    "value": {
+      "depends": [
+        "1acaf6b9-4e5e-4846-88b0-e1156ec88a4b",
+        "11aabaae-589b-4039-9fb0-ee4c7f4724ed"
+      ]
+    }
+  },
+  "69ab2b01-af09-4870-bfe2-3b808f1f3e43": {
+    "url": "db://assets/sound",
+    "value": {}
+  },
+  "11aabaae-589b-4039-9fb0-ee4c7f4724ed": {
+    "url": "db://assets/sound/music_bg.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "3d187ba8-1c97-459f-9e1a-3a5336455160": {
+    "url": "db://assets/sound/sound_click.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "d1746bbd-d063-41a3-81c7-e10848a51fd9": {
+    "url": "db://assets/sound/sound_e_clean.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "286e9894-6523-4536-a50d-dcca5737baa9": {
+    "url": "db://assets/sound/sound_lose.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "2e512e10-6f7f-4840-a6ad-ba424389e4a6": {
+    "url": "db://assets/sound/sound_win.mp3",
+    "value": {
+      "depends": []
+    }
+  },
+  "54f714b7-5f8c-4967-9764-85c8cdddabbb": {
+    "url": "db://assets/ts.ts",
+    "value": {}
+  }
+}

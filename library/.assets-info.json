@@ -1,0 +1,66 @@
+{
+  "E:\\cocos\\NewProject\\assets\\scene.scene.meta": {
+    "time": 1669713436923.5078
+  },
+  "E:\\cocos\\NewProject\\assets\\scene.scene": {
+    "time": 1669714236016.1814,
+    "uuid": "1acaf6b9-4e5e-4846-88b0-e1156ec88a4b",
+    "missing": false
+  },
+  "E:\\cocos\\NewProject\\assets\\sound.meta": {
+    "time": 1669713452730.3813
+  },
+  "E:\\cocos\\NewProject\\assets\\sound": {
+    "time": 1669713450659.6956,
+    "uuid": "69ab2b01-af09-4870-bfe2-3b808f1f3e43",
+    "missing": false
+  },
+  "E:\\cocos\\NewProject\\assets\\sound\\music_bg.mp3.meta": {
+    "time": 1669605134312.7036
+  },
+  "E:\\cocos\\NewProject\\assets\\sound\\sound_click.mp3.meta": {
+    "time": 1667201016467.287
+  },
+  "E:\\cocos\\NewProject\\assets\\sound\\sound_e_clean.mp3.meta": {
+    "time": 1667201016472.2866
+  },
+  "E:\\cocos\\NewProject\\assets\\sound\\sound_lose.mp3.meta": {
+    "time": 1667201016478.2886
+  },
+  "E:\\cocos\\NewProject\\assets\\sound\\sound_win.mp3.meta": {
+    "time": 1667201016484.2903
+  },
+  "E:\\cocos\\NewProject\\assets\\sound\\sound_e_clean.mp3": {
+    "time": 1665309660269.8176,
+    "uuid": "d1746bbd-d063-41a3-81c7-e10848a51fd9",
+    "missing": false
+  },
+  "E:\\cocos\\NewProject\\assets\\sound\\sound_win.mp3": {
+    "time": 1665309660288.8196,
+    "uuid": "2e512e10-6f7f-4840-a6ad-ba424389e4a6",
+    "missing": false
+  },
+  "E:\\cocos\\NewProject\\assets\\sound\\music_bg.mp3": {
+    "time": 1669605054114.1328,
+    "uuid": "11aabaae-589b-4039-9fb0-ee4c7f4724ed",
+    "missing": false
+  },
+  "E:\\cocos\\NewProject\\assets\\sound\\sound_click.mp3": {
+    "time": 1665309660265.818,
+    "uuid": "3d187ba8-1c97-459f-9e1a-3a5336455160",
+    "missing": false
+  },
+  "E:\\cocos\\NewProject\\assets\\sound\\sound_lose.mp3": {
+    "time": 1665309660279.828,
+    "uuid": "286e9894-6523-4536-a50d-dcca5737baa9",
+    "missing": false
+  },
+  "E:\\cocos\\NewProject\\assets\\ts.ts.meta": {
+    "time": 1669713631663.8218
+  },
+  "E:\\cocos\\NewProject\\assets\\ts.ts": {
+    "time": 1669716776180.641,
+    "uuid": "54f714b7-5f8c-4967-9764-85c8cdddabbb",
+    "missing": false
+  }
+}
